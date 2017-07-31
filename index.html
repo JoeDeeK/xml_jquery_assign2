@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<!-- 	Assignment 2
+		Student Name: Jody Kirton
+		Student Number: 991355155 
+-->
+
+<html>
+	<head>
+		<title></title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<link rel="stylesheet" href="_css/jquery.mobile.css" />
+		<link rel="stylesheet" href="_css/kirtonj.css" />
+		
+		<script src="_js/jquery.js"></script>
+		<script src="_js/jquery.mobile.js"></script>
+		<script src="_js/myscript.js"></script> 
+	</head>
+
+	<body>
+		<!-- Home Page -->
+		<div  data-role="page" data-theme="a" id="home">
+			<div data-role="header">
+				<h1  class="ui-title" id="homeTitle"></h1>
+			</div>
+			
+			<div role="main" class="ui-content">
+				<ul id="bookLinks" data-role="listview" data-inset="true"></ul>		
+				<nav data-role="navbar" id="navhome" class="ui-navbar"></nav>
+			</div>
+				<div data-role="footer" class="ui-footer" id="footer">
+			</div>
+		</div>
+		<!-- end of home page -->
+
+		
+		<!-- Start of individual page -->
+		<div data-role="page" id="individual" data-theme="a">
+			<div data-role="header">
+				<h1 class="ui-title" id="homeTitle"></h1>
+			</div>
+
+			<div role="main" class="ui-content">
+				<section id="bookInfo"></section>			
+			</div>
+			
+			<div data-role="footer" id="footer" class="ui-footer">
+			</div>
+		</div>	
+		<!-- End of individual page -->
+		
+		
+		<!-- Start of #popup page-->
+		<div data-role="page" id="popup">
+			<header data-role="header" data-theme="b">
+				<h1>Rating</h1>
+			</header>
+
+			<div class="ui-content" role="main" data-theme="b">	
+				<h2>My Rating</h2>
+				<p id="ratingInfo"></p>		
+				<p><a data-rel="back" class="ui-btn ui-icon-back ui-btn-icon-top">Back to page</a></p>	
+			</div>
+		</div>
+		<!-- end of popup page -->
+		
+	</body>
+</html>

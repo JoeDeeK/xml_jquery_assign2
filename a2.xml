@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<kirtonj>
+	<title>My Favourite Books</title>
+	
+	<student studentProgram="Computer Programmer" studentNumber="991355155">Jody Kirton</student>
+	
+	<mybooks>
+		<book>
+			<bookName bookImage="_images/eternityInTheirHearts.jpg" >Eternity in Their Hearts</bookName>
+			<bookPlot bookType="Religion and Spirituality" >Has the God who prepared the gospel for all people groups also 
+				prepared all people groups for the gospel? Don Richardson, author of the bestselling book Peace Child, 
+				has studied cultures throughout the world and found startling evidence of belief in the one true God within 
+				hundreds of them. In Eternity in Their Hearts, Richardson gives fascinating, real-life examples of ways 
+				people groups have exhibited terms and concepts in their histories that have prepared them for the gospel.
+			</bookPlot>
+			<bookAuthor>Don Richardson</bookAuthor>
+			<bookPublisher>Baker Publishing</bookPublisher>
+			<bookPrice>$19.99</bookPrice>	
+			<bookLink>https://www.chapters.indigo.ca/en-ca/books/eternity-in-their-hearts/9780764215582-item.html?ikwid</bookLink> 
+			<bookRating>I give this book a rating of 4/5.  It's been years since I have read this book.  However of the many books
+				I have read over the years, this one stands out to me.  I remember being able to relate to the story.  At a point 
+				in time when I didn't know God, I was seeking to know Him, seeking to know the truth.  And when I seeked with a open 
+				heart, I found Him.  Much like one of the characters in this book.
+			</bookRating>
+		</book>
+		<book>
+			<bookName bookImage="_images/iDaredToCallHimFather.jpg" >I Dared to Call Him Father</bookName>
+			<bookPlot bookType="Biography and Memoir" >A first-person account of a wealthy Muslim woman in Pakistan who, 
+				through a succession of supernatural events, came to know God as her Father.
+			</bookPlot>
+			<bookAuthor>Richard H. Schneider</bookAuthor>
+			<bookPublisher>Baker Publishing</bookPublisher>
+			<bookPrice>$15.73</bookPrice>	
+			<bookLink>https://www.chapters.indigo.ca/en-ca/books/i-dared-to-call-him/9780800793241-item.html?ikwid</bookLink>
+			<bookRating>I give this book a 4/5 rating.  I love how the main character in this books describes her life, how she is open
+				and honest about her thoughts and feelings.  At times, this book has made me laugh out loud, and at times have made me cry. 
+				A true and beautiful story about a life you will never forget. 
+			</bookRating>			
+		</book>
+		<book>
+			
+			<bookName bookImage="_images/loveAndRespect.jpg" >Love and Respect</bookName>
+			<bookPlot bookType="Family and Relationships" >A Marriage Book with a Difference! 
+				A Message That Works.  Based on over three decades of counseling, 
+				as well as scientific and biblical research, Dr. Emerson Eggerichs and his wife, Sarah, have already taken 
+				the Love and Respectmessage across America and are changing the way couples talk to, think about, and treat 
+				each other. What do you want for your marriage? Want some peace? Want to feel close? Want to feel valued? Want 
+				to experience marriage the way God intended? Then why not try some Love and Respect.
+			</bookPlot>
+			<bookAuthor>Dr. Emerson Eggerichs</bookAuthor>
+			<bookPublisher>Thomas Nelson</bookPublisher>
+			<bookPrice>$19.99</bookPrice>	
+			<bookLink>https://www.chapters.indigo.ca/en-ca/books/love-and-respect-the-love/9781591452461-item.html?ikwid</bookLink>
+			<bookRating>I give this book a 5/5 rating.  I had heard many good things about this book from others, and so decided to
+				read it for myself.  I really enjoyed how the foundation of this book is bibical.  Throughout my read, I had learned 
+				better how to see things through my husbands eyes.  That in turn helped me to communicate better with him, and to 
+				understand him better.  I have always had respect for my husband, and this book have helped me to show my husband that 
+				I respect him in ways that he will see and understand more.
+				</bookRating>			
+		</book>
+		<book>
+			<bookName bookImage="_images/30LifePrinciples.jpg" >30 Life Principles</bookName>
+			<bookPlot bookType="Religion and Spirituality" >Charles Stanley lays out 30 Life Principles that can help you 
+				become more like Christ every day. This is accomplished through the power of His Holy Spirit, and through 
+				your own diligence and discipline. 
+				In this book, author Charles Stanley lays out 30 Life Principles that 
+				can help you in the process. You will learn: "God's Word is an immovable anchor in times of storm," "fight 
+				all your battles on your knees and you will win every time," "God acts on behalf of those who wait for Him," 
+				and much more. These principles are laid out as a study guide for use in individual devotional or group 
+				study-enough for every day of the month. 
+				By practicing these 30 Life Principles, you will be cooperating 
+				fully with the Spirit of God, and your life will grow into the likeness of Christ.
+			</bookPlot>
+			<bookAuthor>Charles F. Stanley</bookAuthor>
+			<bookPublisher>Thomas Nelson</bookPublisher>
+			<bookPrice>$12.50</bookPrice>		
+			<bookLink>https://www.chapters.indigo.ca/en-ca/books/30-life-principles/9781418531089-item.html?ikwid</bookLink>
+			<bookRating>I give this book a 5/5 rating.  This is actually a workbook that will take you though different books
+				in the Bible, while providing encouraging commentary.  I really enjoyed studying my Bible with the help of this
+				book.  The teachings are bibically sound, and the life examples given are very real and honest.  This is a book
+				I can see myself going back to time and time again.
+			</bookRating>
+		</book>
+	</mybooks>
+</kirtonj>
